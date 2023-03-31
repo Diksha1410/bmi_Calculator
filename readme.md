@@ -1,0 +1,14 @@
+- Initially there are two variables "height" and " weight" and the code asks the user to input their height and weight.
+- The code starts by defining a function called BMI.
+- This function takes two parameters: height and weight.
+- The function calculates the BMI of the person using the formula weight/(height/100)**2.
+-  Then we have used if-elif condition.
+ - If bmi is less than 16, it returns 'Severely Underweight'.
+ - If bmi is between 16 and 18.5, it returns 'Underweight'.
+ - If bmi is between 18.5 and 25, it returns 'Healthy'.
+ - If bmi is between 25 and 30, it returns 'Overweight'.
+ - If bmi is greater than 30, then it returns 'Obesity'
+- Then we have declared the variables bmi and quote.
+- The last line of code uses print statement which uses two variables:"bmi" and "output", to dispplay their values.
+- Finally, the code calculates the BMI for a given height and weight.
+- The user can see their current status on the screen in terms of BMI (Body Mass Index).
