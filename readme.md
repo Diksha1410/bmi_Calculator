@@ -2,7 +2,7 @@
 - The code starts by defining a function called BMI.
 - This function takes two parameters: height and weight.
 - The function calculates the BMI of the person using the formula weight/(height/100)**2.
--  Then we have used if-elif condition.
+-  Then we have used if-elif condition : 
  - If bmi is less than 16, it returns 'Severely Underweight'.
  - If bmi is between 16 and 18.5, it returns 'Underweight'.
  - If bmi is between 18.5 and 25, it returns 'Healthy'.
